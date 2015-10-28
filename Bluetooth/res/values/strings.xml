@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buscar">Buscar dispositivos</string>
+    <string name="buscarSin">Dispositivos vinculados</string>
+    <string name="activar">Activar Bluetooth</string>
+
+</resources>
